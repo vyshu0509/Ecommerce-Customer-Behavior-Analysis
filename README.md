@@ -1,5 +1,4 @@
 # Ecommerce-Customer-Behavior-Analysis
-# E-Commerce Customer Behavior Analysis
 
 ## 📌 Project Overview
 This project focuses on analyzing customer behavior in e-commerce platforms to understand purchasing patterns and improve business decision-making.
